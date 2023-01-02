@@ -12,7 +12,7 @@
 - Ability to send message to a friend
 - Basic profile management
 
-##Requirements
+## Requirements
 - PHP
 - A web server with PHP and MySQL support (such as XAMPP)
 
